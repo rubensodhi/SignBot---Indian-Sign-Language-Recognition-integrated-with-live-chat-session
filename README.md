@@ -8,6 +8,7 @@ A real-time sign language recognition system that detects and interprets Indian 
 - Support for both one-handed and two-handed signs
 - Live camera feed with gesture detection
 - Chat interface for displaying recognized signs
+- Peer-to-peer communication between two computers running the application
 - User authentication system
 - Dataset creation tools
 - Support for numbers (0-9) and alphabets (A-Z)
@@ -99,6 +100,20 @@ For a complete list of dependencies, see `requirements.txt`
    - **Create DS One Hand**: Create dataset for one-handed signs
    - **Create DS Two Hand**: Create dataset for two-handed signs
    - **Predict Signs**: Start real-time sign recognition
+
+## Network Communication
+
+The application supports real-time communication between two computers:
+
+1. Both computers must be running the application
+2. One computer acts as the server (automatically configured)
+3. The other computer connects as a client
+4. Sign language gestures detected on one computer are transmitted to the other
+5. Default ports used:
+   - Server: 3050
+   - Client: 4050
+
+Note: Both computers must be on the same network or have proper network connectivity between them.
 
 ## Sign Recognition Support
 
