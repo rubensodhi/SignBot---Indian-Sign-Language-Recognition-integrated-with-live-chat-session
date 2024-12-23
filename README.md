@@ -3,15 +3,29 @@
 A real-time sign language recognition system that detects and interprets Indian Sign Language (ISL) gestures using computer vision and machine learning.
 
 ## Features
+![image](https://github.com/user-attachments/assets/ee852479-0efb-4fc0-bf5a-b0e4e94731ad)
 
 - Real-time hand gesture recognition
 - Support for both one-handed and two-handed signs
 - Live camera feed with gesture detection
 - Chat interface for displaying recognized signs
+![image](https://github.com/user-attachments/assets/18b8b214-85fd-4ec5-af0d-afa5d659d781)
+
 - Peer-to-peer communication between two computers running the application
 - User authentication system
 - Dataset creation tools
+![image](https://github.com/user-attachments/assets/141119eb-0982-436a-9a40-c8e339359e36)
+
 - Support for numbers (0-9) and alphabets (A-Z)
+![image](https://github.com/user-attachments/assets/1651a988-462d-40d7-8d4f-f5a9686d0d77)
+
+##Results
+
+![image](https://github.com/user-attachments/assets/087da2bb-6b34-4d73-949b-748342e892cb)
+Results for One Handed Signs
+
+![image](https://github.com/user-attachments/assets/fff968ea-d02c-40cb-9773-1eb73b1bd0f9)
+Results for Two Handed Signs
 
 ## Prerequisites
 
