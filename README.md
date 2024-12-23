@@ -38,9 +38,11 @@ A real-time sign language recognition system that detects and interprets Indian 
 ##Results
 
 ![image](https://github.com/user-attachments/assets/087da2bb-6b34-4d73-949b-748342e892cb)
+
 Results for One Handed Signs
 
 ![image](https://github.com/user-attachments/assets/fff968ea-d02c-40cb-9773-1eb73b1bd0f9)
+
 Results for Two Handed Signs
 
 ## Prerequisites
