@@ -35,7 +35,7 @@ A real-time sign language recognition system that detects and interprets Indian 
 
 ![image](https://github.com/user-attachments/assets/1651a988-462d-40d7-8d4f-f5a9686d0d77)
 
-##Results
+## Results
 
 ![image](https://github.com/user-attachments/assets/087da2bb-6b34-4d73-949b-748342e892cb)
 
