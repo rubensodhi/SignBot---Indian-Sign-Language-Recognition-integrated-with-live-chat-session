@@ -1,6 +1,6 @@
 # Signbot - Indian Sign Language Recognition System
 
-![image](https://github.com/user-attachments/assets/92886a65-4d56-4cb4-850d-85050068040f)
+![gif2](https://github.com/user-attachments/assets/df687f3b-ccd3-41c0-a1c7-d8dab97aacde)
 
 
 A real-time sign language recognition system that detects and interprets Indian Sign Language (ISL) gestures using computer vision and machine learning.
