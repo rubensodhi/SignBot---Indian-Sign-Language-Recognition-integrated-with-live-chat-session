@@ -4,6 +4,7 @@
 
 
 A real-time sign language recognition system that detects and interprets Indian Sign Language (ISL) gestures using computer vision and machine learning.
+
 ![image](https://github.com/user-attachments/assets/18b8b214-85fd-4ec5-af0d-afa5d659d781)
 
 
