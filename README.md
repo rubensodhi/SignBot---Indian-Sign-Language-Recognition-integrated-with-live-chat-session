@@ -2,11 +2,9 @@
 
 ![gif2](https://github.com/user-attachments/assets/df687f3b-ccd3-41c0-a1c7-d8dab97aacde)
 
-
 A real-time sign language recognition system that detects and interprets Indian Sign Language (ISL) gestures using computer vision and machine learning.
 
 ![image](https://github.com/user-attachments/assets/18b8b214-85fd-4ec5-af0d-afa5d659d781)
-
 
 ## Features
 ![image](https://github.com/user-attachments/assets/ee852479-0efb-4fc0-bf5a-b0e4e94731ad)
@@ -18,10 +16,6 @@ A real-time sign language recognition system that detects and interprets Indian 
 ![image](https://github.com/user-attachments/assets/b134ca28-7c23-455f-9be0-3c08b727d8c4)
 
 - Chat interface for displaying recognized signs
-
-
-
-
 - Peer-to-peer communication between two computers running the application
 - User authentication system
 
