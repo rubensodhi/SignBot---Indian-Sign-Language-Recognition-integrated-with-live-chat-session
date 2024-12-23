@@ -1,6 +1,11 @@
 # Signbot - Indian Sign Language Recognition System
 
+![image](https://github.com/user-attachments/assets/92886a65-4d56-4cb4-850d-85050068040f)
+
+
 A real-time sign language recognition system that detects and interprets Indian Sign Language (ISL) gestures using computer vision and machine learning.
+![image](https://github.com/user-attachments/assets/18b8b214-85fd-4ec5-af0d-afa5d659d781)
+
 
 ## Features
 ![image](https://github.com/user-attachments/assets/ee852479-0efb-4fc0-bf5a-b0e4e94731ad)
@@ -8,15 +13,25 @@ A real-time sign language recognition system that detects and interprets Indian 
 - Real-time hand gesture recognition
 - Support for both one-handed and two-handed signs
 - Live camera feed with gesture detection
+
+![image](https://github.com/user-attachments/assets/b134ca28-7c23-455f-9be0-3c08b727d8c4)
+
 - Chat interface for displaying recognized signs
-![image](https://github.com/user-attachments/assets/18b8b214-85fd-4ec5-af0d-afa5d659d781)
+
+
+
 
 - Peer-to-peer communication between two computers running the application
 - User authentication system
+
+![image](https://github.com/user-attachments/assets/6ec01d8e-e5a3-40c8-a32a-ae79f283223d)
+
 - Dataset creation tools
+
 ![image](https://github.com/user-attachments/assets/141119eb-0982-436a-9a40-c8e339359e36)
 
 - Support for numbers (0-9) and alphabets (A-Z)
+
 ![image](https://github.com/user-attachments/assets/1651a988-462d-40d7-8d4f-f5a9686d0d77)
 
 ##Results
